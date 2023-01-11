@@ -1,16 +1,5 @@
-# checkingfile
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1673457594](https://user-images.githubusercontent.com/119427301/211873679-15cbc97e-ed96-4625-a7fa-99242ce2a57e.png)
+![Screenshot_1673457620](https://user-images.githubusercontent.com/119427301/211873739-100128e2-3632-4524-aa0d-d0ef08a5011f.png)
+![Screenshot_1673457624](https://user-images.githubusercontent.com/119427301/211873767-d6c8615d-b742-449b-8bcb-bcd61d1d3dad.png)
+![Screenshot_1673457607](https://user-images.githubusercontent.com/119427301/211873782-69bd8549-0c10-46f5-9123-69ab2395b820.png)
+![Screenshot_1673457636](https://user-images.githubusercontent.com/119427301/211873797-60d2d5d9-1083-461e-acb6-3f8c92abcb5d.png)
